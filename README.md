@@ -20,6 +20,10 @@ Frontend: Blade, CSS3, JavaScript (Responsive Design)
 Veritabanı: MySQL
 Görüntü İşleme: Intervention Image (Görsel optimizasyonu için)
 
+📸 Ekran Görüntüleri
+<img width="1200" height="800" alt="pc and telephone mockup" src="https://github.com/user-attachments/assets/7f810637-adde-4ba7-a25f-f91f0bca5238" />
+
+
 📩 İletişim
 Proje hakkında detaylı bilgi almak veya iş birliği yapmak için benimle iletişime geçebilirsiniz:
 Web: https://dijitalyemek.com
