@@ -23,4 +23,5 @@ Görüntü İşleme: Intervention Image (Görsel optimizasyonu için)
 📩 İletişim
 Proje hakkında detaylı bilgi almak veya iş birliği yapmak için benimle iletişime geçebilirsiniz:
 Web: https://dijitalyemek.com
+Demo: https://dijitalyemek.com/menu/demo
 LinkedIn: https://www.linkedin.com/in/sametayazozturk
