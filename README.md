@@ -25,3 +25,4 @@ Proje hakkında detaylı bilgi almak veya iş birliği yapmak için benimle ilet
 Web: https://dijitalyemek.com
 Demo: https://dijitalyemek.com/menu/demo
 LinkedIn: https://www.linkedin.com/in/sametayazozturk
+© 2026 DijitalYemek - Tüm Hakları Saklıdır.
